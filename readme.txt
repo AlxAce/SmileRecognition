@@ -1,0 +1,1 @@
+Simple neural network to recognize positive and negative smileys.
